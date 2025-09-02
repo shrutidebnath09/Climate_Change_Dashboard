@@ -1,0 +1,6 @@
+"biome_type","total_records","locations_affected","extreme_weathercount","event_types","average_temperature","total_economic_impact_estimate","average_vulnerability"
+"Desert","25","18","5","Drought, Heatwave, Hurricane, None","19.5","1319873484.62","5"
+"Forest","17","13","2","Flood, Hurricane, None","19.9","799407634.60","7"
+"Grassland","19","14","2","Heatwave, Hurricane, None","22.0","1068900741.87","5"
+"Tundra","26","18","7","Drought, Flood, Heatwave, Hurricane, None","18.6","1521395358.41","6"
+"Wetland","18","14","2","Drought, None","16.1","901598135.28","5"

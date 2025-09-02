@@ -1,0 +1,6 @@
+"country","city","average_aqi","days_above_200_aqi","total_population_exposure","average_temperature"
+"Canada","Vancouver","157","5","29518135","17.0"
+"South Africa","Durban","158","5","23352543","17.0"
+"South Africa","Johannesburg","173","5","25623821","16.8"
+"USA","New York","199","5","38456628","21.9"
+"USA","Chicago","200","5","23815304","13.3"
